@@ -1,5 +1,7 @@
 {
   "name": "signature",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
